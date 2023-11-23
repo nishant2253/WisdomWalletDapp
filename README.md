@@ -1,8 +1,3 @@
-## Getting Started
-Absolutely, here's a compelling README for WisdomWallet on GitHub:
-
----
-
 # WisdomWallet
 
 WisdomWallet is not just a decentralized application; it's a movement towards accessible education, community empowerment, and environmental sustainability. Join us in reshaping the future of learning.
