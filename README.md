@@ -17,22 +17,19 @@ WisdomWallet is not just a decentralized application; it's a movement towards ac
 - **Scalability:** Designed for developing nations, addressing challenges like illiteracy, corruption, and changing book editions.
 
 - **Tech Stack:**
+    **Next.js, JavaScript, HTML, CSS:** "We use Next.js, a React-based framework, along with JavaScript, HTML, and CSS to create a dynamic and responsive user interface. This ensures a smooth and engaging experience for all users on our platform."
 
-"Our DApp, WisdomWallet, is built on a robust and versatile tech stack to ensure a seamless user experience and secure transactions."
+    **Hardhat:** "For smart contract development and testing, we rely on Hardhat. It enables us to build, deploy, and interact with secure and efficient smart contracts on the blockchain."
 
-    Next.js, JavaScript, HTML, CSS: "We use Next.js, a React-based framework, along with JavaScript, HTML, and CSS to create a dynamic and responsive user interface. This ensures a smooth and engaging experience for all users on our platform."
+    **Pinata:** "To store and manage decentralized file storage, we utilize Pinata. It plays a crucial role in handling the distributed storage of educational materials on the blockchain, ensuring accessibility and durability."
 
-    Hardhat: "For smart contract development and testing, we rely on Hardhat. It enables us to build, deploy, and interact with secure and efficient smart contracts on the blockchain."
+    **React:** "Our frontend is powered by React, providing a user-friendly and interactive interface for seamless navigation and resource sharing."
 
-    Pinata: "To store and manage decentralized file storage, we utilize Pinata. It plays a crucial role in handling the distributed storage of educational materials on the blockchain, ensuring accessibility and durability."
+    **Metamask Wallet:** "To enhance user security and facilitate Web3 transactions, WisdomWallet integrates with the widely-used Metamask wallet. This ensures a secure and convenient way for users to interact with the blockchain."
 
-    React: "Our frontend is powered by React, providing a user-friendly and interactive interface for seamless navigation and resource sharing."
+    **Polygon Blockchain:** "For scalability and cost-effectiveness, WisdomWallet is built on the Polygon blockchain. This allows us to offer fast and low-cost transactions, making the platform accessible to users across different economic backgrounds."
 
-    Metamask Wallet: "To enhance user security and facilitate Web3 transactions, WisdomWallet integrates with the widely-used Metamask wallet. This ensures a secure and convenient way for users to interact with the blockchain."
-
-    Polygon Blockchain: "For scalability and cost-effectiveness, WisdomWallet is built on the Polygon blockchain. This allows us to offer fast and low-cost transactions, making the platform accessible to users across different economic backgrounds."
-
-    Solidity: "The smart contracts powering WisdomWallet are developed in Solidity, a language specifically designed for writing smart contracts on the Ethereum blockchain. It ensures the security and efficiency of our decentralized processes."
+    **Solidity:** "The smart contracts powering WisdomWallet are developed in Solidity, a language specifically designed for writing smart contracts on the Ethereum blockchain. It ensures the security and efficiency of our decentralized processes."
 
 ## Getting Started
 
