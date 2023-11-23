@@ -17,6 +17,8 @@ WisdomWallet is not just a decentralized application; it's a movement towards ac
 - **Scalability:** Designed for developing nations, addressing challenges like illiteracy, corruption, and changing book editions.
 
 - **Tech Stack:**
+
+
     **Next.js, JavaScript, HTML, CSS:** "We use Next.js, a React-based framework, along with JavaScript, HTML, and CSS to create a dynamic and responsive user interface. This ensures a smooth and engaging experience for all users on our platform."
 
     **Hardhat:** "For smart contract development and testing, we rely on Hardhat. It enables us to build, deploy, and interact with secure and efficient smart contracts on the blockchain."
