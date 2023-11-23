@@ -5,8 +5,7 @@ import { createContext, useState } from 'react';
 import {TailSpin} from 'react-loader-spinner';
 import {ethers} from 'ethers';
 import {toast} from 'react-toastify';
-import CampaignFactory from '../../artifacts/contracts/campaign.sol/Campaign.json'
-import Campaign from '../../artifacts/contracts/campaign.sol/Campaign.json'
+import CampaignFactory from '../../artifacts/contracts/campaign.sol/CampaignFactory.json'
 
 const FormState = createContext();
 
@@ -135,7 +134,7 @@ const Address = styled.div`
     display:flex ;
     flex-direction:column;
     align-items:center ;
-
+    background-color:${(props) => props.theme.bgSubDiv} ;
     border-radius:8px;
 `
 

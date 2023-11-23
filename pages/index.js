@@ -5,7 +5,7 @@ import PaidIcon from '@mui/icons-material/Paid';
 import EventIcon from '@mui/icons-material/Event';
 import Image from 'next/image';
 import { ethers } from 'ethers';
-import CampaignFactory from '../artifacts/contracts/Campaign.sol/CampaignFactory.json'
+import CampaignFactory from '../artifacts/contracts/campaign.sol/CampaignFactory.json'
 import { useState } from 'react';
 import Link from 'next/link'
 
@@ -141,6 +141,12 @@ export async function getStaticProps() {
     revalidate: 10
   }
 }
+
+
+
+
+
+
 const HomeWrapper = styled.div`
   display: flex;
   flex-direction: column;

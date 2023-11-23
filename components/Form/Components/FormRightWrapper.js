@@ -110,7 +110,8 @@ const FormRow = styled.div`
 
 const Input = styled.input`
   padding:15px;
-  
+  background-color:${(props) => props.theme.bgDiv} ;
+  color:${(props) => props.theme.color} ;
   margin-top:4px;
   border:none ;
   border-radius:8px ;
@@ -133,7 +134,8 @@ const RowSecondInput = styled.div`
 
 const Select = styled.select`
   padding:15px;
-
+  background-color:${(props) => props.theme.bgDiv} ;
+  color:${(props) => props.theme.color} ;
   margin-top:4px;
   border:none ;
   border-radius:8px ;
@@ -143,7 +145,8 @@ const Select = styled.select`
 `
 
 const Image = styled.input`
-  
+  background-color:${(props) => props.theme.bgDiv} ;
+  color:${(props) => props.theme.color} ;
   margin-top:4px;
   border:none ;
   border-radius:8px ;
@@ -153,6 +156,8 @@ const Image = styled.input`
 
   &::-webkit-file-upload-button {
     padding: 15px ;
+    background-color: ${(props) => props.theme.bgSubDiv} ;
+    color: ${(props) => props.theme.color} ;
     outline:none ;
     border:none ;
     font-weight:bold ;

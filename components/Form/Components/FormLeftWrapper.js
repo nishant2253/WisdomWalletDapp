@@ -33,7 +33,8 @@ const FormInput = styled.div`
 `
 const Input = styled.input`
   padding:15px;
-
+  background-color:${(props) => props.theme.bgDiv} ;
+  color:${(props) => props.theme.color} ;
   margin-top:4px;
   border:none ;
   border-radius:8px ;
@@ -44,7 +45,8 @@ const Input = styled.input`
 
 const TextArea = styled.textarea`
   padding:15px;
-  
+  background-color:${(props) => props.theme.bgDiv} ;
+  color:${(props) => props.theme.color} ;
   margin-top:4px;
   border:none;
   border-radius:8px ;
