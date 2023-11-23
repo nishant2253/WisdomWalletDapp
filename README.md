@@ -25,6 +25,8 @@ WisdomWallet is not just a decentralized application; it's a movement towards ac
 
     **Pinata:** "To store and manage decentralized file storage, we utilize Pinata. It plays a crucial role in handling the distributed storage of educational materials on the blockchain, ensuring accessibility and durability."
 
+    **Infura:** "Infura is an infrastructure-as-a-service (IaaS) provider for blockchain developers. It simplifies access to Ethereum and other blockchain networks by managing nodes, synchronization, and maintenance. Developers can seamlessly interact with blockchain networks through Infura's scalable API, eliminating the need for setting up and maintaining their own nodes. This service accelerates decentralized application (DApp) development, providing efficient and reliable access to blockchain networks."
+
     **React:** "Our frontend is powered by React, providing a user-friendly and interactive interface for seamless navigation and resource sharing."
 
     **Metamask Wallet:** "To enhance user security and facilitate Web3 transactions, WisdomWallet integrates with the widely-used Metamask wallet. This ensures a secure and convenient way for users to interact with the blockchain."
